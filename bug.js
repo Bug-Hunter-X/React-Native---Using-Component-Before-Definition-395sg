@@ -1,0 +1,1 @@
+This error occurs when you are trying to use a component before it has been defined. This can happen if you are using a component in a parent component before it has been imported or if you are importing a component in a conditional statement.
